@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AkkarinAKN
-- 👀 I’m interested in web Debelopment
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @AkkarinAKN 
+- 👨🏻‍💻 I am currently working as a software engineer
+- 👀 I’m interested in Salesforce Development, web Development 
+- 🌱 I’m currently learning React, HTML, CSS, javascript, Node.js, etc.
+- 💞️ Nice To Meat You
 
 <!---
 AkkarinAKN/AkkarinAKN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
