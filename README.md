@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AkkarinAKN 
-- 👨🏻‍💻 I am currently working as a software engineer
+- 👨🏻‍💻 I'm currently working as a software engineer
 - 👀 I’m interested in Salesforce Development, web Development 
 - 🌱 I’m currently learning React, HTML, CSS, javascript, Node.js, etc.
 - 💞️ Nice To Meat You
